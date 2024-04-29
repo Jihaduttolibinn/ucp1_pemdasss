@@ -30,7 +30,7 @@ public: // akses modifier
     void output() {
         cout << "Nama: " << nama << endl; 
         cout << "jumlah: " << jumlah << endl;
-        cout << "mata_pembelajaran: " << mata_pembelaran << endl;
+        cout << "mata_pembelajaran: " << mata_pembelajaran << endl;
     }
 };
 
@@ -45,6 +45,8 @@ public:
         cin >> kodePM;
         cout << "Nama PM: "; 
         cin >> namaPM;
+        cout << "mata_pembelajaran: ";
+        cin >> mata_pembelajaran;
 
 
 
