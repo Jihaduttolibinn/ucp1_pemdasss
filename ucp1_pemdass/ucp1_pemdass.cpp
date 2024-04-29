@@ -43,7 +43,8 @@ public:
     void input() {
         cout << "Kode PM: ";
         cin >> kodePM;
-
+        cout << "Nama PM: "; 
+        cin >> namaPM;
 
 
 
