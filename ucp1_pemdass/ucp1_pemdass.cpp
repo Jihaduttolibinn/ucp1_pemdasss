@@ -37,7 +37,8 @@ public: // akses modifier
 class pembelajaran {
 private:
     string kodePM;
-    ;
+    string namaPM;
+    
 
 
 
