@@ -48,5 +48,8 @@ public:
         cout << "mata_pembelajaran: ";
         cin >> mata_pembelajaran;
 
+        void output() {
+
+
 
 
