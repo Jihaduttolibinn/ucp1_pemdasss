@@ -39,7 +39,8 @@ private:
     string kodePM;
     string namaPM;
     string nilai;
-    
+public:
+    void input() {
 
 
 
