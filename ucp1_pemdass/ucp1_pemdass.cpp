@@ -28,6 +28,7 @@ public: // akses modifier
     string mata_pembelajaran;
 
     void output() {
+        cout << "Nama: " << nama << endl; 
 
 
 
