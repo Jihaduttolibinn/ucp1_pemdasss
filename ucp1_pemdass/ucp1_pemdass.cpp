@@ -38,6 +38,7 @@ class pembelajaran {
 private:
     string kodePM;
     string namaPM;
+    string nilai;
     
 
 
