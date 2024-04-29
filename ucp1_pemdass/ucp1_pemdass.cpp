@@ -25,7 +25,7 @@ class Mahasiswa {
 public: // akses modifier 
     string nama;
     int jumlah;
-
+    string mata_pembelajaran;
 
 
 int main()
