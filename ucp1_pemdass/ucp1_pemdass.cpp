@@ -49,6 +49,7 @@ public:
         cin >> mata_pembelajaran;
 
         void output() {
+            cout << "Kode PM: " << kodePM << endl;
 
 
 
