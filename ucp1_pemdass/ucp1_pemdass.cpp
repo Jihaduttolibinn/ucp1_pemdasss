@@ -51,6 +51,11 @@ public:
         void output() {
             cout << "Kode PM: " << kodePM << endl;
             cout << "Nama PM: " << namaPM << endl; 
+            cout << "mata_pembelajaran: " << mata_pembelajaran << endl;
+
+        }
+
+    };
 
 
 
