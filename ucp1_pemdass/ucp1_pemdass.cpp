@@ -27,9 +27,7 @@ public: // akses modifier
     int jumlah;
     string mata_pembelajaran;
 
+    void output() {
 
-int main()
-{
-    std::cout << "Hello World!\n";
-}
+
 
