@@ -29,8 +29,8 @@ public: // akses modifier
 
     void output() {
         cout << "Nama: " << nama << endl; 
-        cout << "Umur: " << jumlah << endl;
-        cout << "Jurusan: " << mata_pembelaran << endl;
+        cout << "jumlah: " << jumlah << endl;
+        cout << "mata_pembelajaran: " << mata_pembelaran << endl;
     }
 };
 
@@ -41,6 +41,9 @@ private:
     string nilai;
 public:
     void input() {
+        cout << "Kode PM: ";
+        cin >> kodePM;
+
 
 
 
